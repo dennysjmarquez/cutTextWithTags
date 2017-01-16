@@ -1,4 +1,6 @@
- /**
+<php
+
+/**
      * @name cutTextWithTags
      * @description recorta un texto respetando las etiquetas  
      * @author  Isai rivas 
@@ -38,3 +40,4 @@
         }
         return $texto;
     }
+?>
