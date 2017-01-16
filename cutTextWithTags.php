@@ -1,5 +1,3 @@
-<php
-
 /**
      * @name cutTextWithTags
      * @description recorta un texto respetando las etiquetas  
@@ -40,4 +38,3 @@
         }
         return $texto;
     }
-?>
